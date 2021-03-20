@@ -1,5 +1,5 @@
 # SpringBootPermission
-SpringBoot通过注解实现权限校验
+SpringBoot通过自定义注解实现权限校验
 
 参考https://blog.csdn.net/Zllvincent/article/details/104883410/
 
